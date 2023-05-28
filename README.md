@@ -28,7 +28,7 @@ berikut langkah-langkahnya :
     - letakkan folder zip ini dimana saja
     - Copy file (".env") yang ada difile project baru kalian
     - Lalu pastekan di dalam folder "ci4_crud_apiValidation"
-    - Setting file database dan development (".env") kalian
+    - Setting databasenya dan rename production jadi "development" di dalam file (".env")
 
 2. Selanjutnya, buatlah sebuah model, controller, dan migrations sesuka kalian
 3. Untuk membuat controller kali ini berbeda karna menggunakan RestFull Api (Ada didokumentasi Ci4)
