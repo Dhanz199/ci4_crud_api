@@ -1,5 +1,12 @@
 <p align="center"><a href="https://www.codeigniter.com/user_guide/index.html" target="_blank"><img src="https://phpcode.id/assets/images/12082210241180.png" width="400" alt="Laravel Logo"></a></p>
 
+<p align="center">
+<a href="https://www.codeigniter.com/"><img src="https://logowik.com/content/uploads/images/651_codeigniter.jpg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
