@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.codeigniter.com"> <img src="https://logowik.com/content/uploads/images/651_codeigniter.jpg" alt="Build Status"></a>
-  <a href="https://www.codeigniter.com">alt="Total Downloads"></a>
+  <a href="https://www.codeigniter.com"><img src="https://logowik.com/content/uploads/images/651_codeigniter.jpg" alt="Total Downloads"></a>
 </p>
 
 # CodeIgniter 4 Application Starter
