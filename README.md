@@ -36,7 +36,14 @@ berikut langkah-langkahnya :
     - php spark serve *Note Untuk run program ci4.
 
 ## Screenshot Test
+`GET`
 ![Screenshot 2023-05-28 111910](https://github.com/Dhanz199/Ci4_Crud_ApiValidation/assets/68377029/b21ec33d-e8bd-441b-8509-a4cb4216bbd6)
+
+`POST`
 ![Screenshot 2023-05-28 111958](https://github.com/Dhanz199/Ci4_Crud_ApiValidation/assets/68377029/73baa892-74b4-469e-a3d2-2e822fbda5a2)
+
+`PUT`
 ![Screenshot 2023-05-28 112246](https://github.com/Dhanz199/Ci4_Crud_ApiValidation/assets/68377029/d0812678-9981-4081-9208-30e9ccb682c1)
+
+`DELETE`
 ![Screenshot 2023-05-28 112311](https://github.com/Dhanz199/Ci4_Crud_ApiValidation/assets/68377029/84579de5-3c7d-455a-9975-561277e31290)
