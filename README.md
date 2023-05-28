@@ -23,7 +23,7 @@ Sebelum anda mendownload zip ini, saya ingin memberikan tips agar tidak terjadi 
 berikut langkah-langkahnya :
 
 1. Buatlah sebuah project baru dengan mengetikan perintah dibawah ini :
-  - `composer create-project codeigniter4/appstarter`
+  - composer create-project codeigniter4/appstarter
   - kemudian composer update | Karna rilis baru kerangka kerja
   - letakkan folder zip ini dimana saja
   - Copy file (".env") yang ada difile project baru kalian
