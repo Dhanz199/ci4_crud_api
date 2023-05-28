@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.codeigniter.com/user_guide/index.html" target="_blank"><img src="https://codeigniter.com/user_guide/_static/ci-logo-text.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://www.codeigniter.com/user_guide/index.html" target="_blank"><img src="https://phpcode.id/assets/images/12082210241180.png" width="400" alt="Laravel Logo"></a></p>
 
 # CodeIgniter 4 Application Starter
 
