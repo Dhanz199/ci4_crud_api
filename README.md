@@ -23,16 +23,16 @@ Sebelum anda mendownload zip ini, saya ingin memberikan tips agar tidak terjadi 
 berikut langkah-langkahnya :
 
 1. Buatlah sebuah project baru dengan mengetikan perintah dibawah ini :
-  - composer create-project codeigniter4/appstarter
-  - kemudian composer update | Karna rilis baru kerangka kerja
-  - letakkan folder zip ini dimana saja
-  - Copy file (".env") yang ada difile project baru kalian
-  - Lalu pastekan di dalam folder "ci4_crud_apiValidation"
-  - Setting file database dan development (".env") kalian
+    - composer create-project codeigniter4/appstarter
+    - kemudian composer update | Karna rilis baru kerangka kerja
+    - letakkan folder zip ini dimana saja
+    - Copy file (".env") yang ada difile project baru kalian
+    - Lalu pastekan di dalam folder "ci4_crud_apiValidation"
+    - Setting file database dan development (".env") kalian
 
 2. Selanjutnya, buatlah sebuah model, controller, dan migrations sesuka kalian
 3. Untuk membuat controller kali ini berbeda karna menggunakan RestFull Api (Ada didokumentasi Ci4)
 5. Tinggal jalankan dan buka postman untuk ngetes program ini. Happy Coding :)
-  - php spark serve *Note Untuk run program ci4
+    - php spark serve *Note Untuk run program ci4
 
 ## ScreenShot Test
