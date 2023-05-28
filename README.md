@@ -23,8 +23,8 @@ Sebelum anda mendownload zip ini, saya ingin memberikan tips agar tidak terjadi 
 berikut langkah-langkahnya :
 
 1. Buatlah sebuah project baru dengan mengetikan perintah dibawah ini :
-    - composer create-project codeigniter4/appstarter
-    - kemudian composer update | Karna rilis baru kerangka kerja
+    `- composer create-project codeigniter4/appstarter`
+    `- kemudian composer update | Karna rilis baru kerangka kerja`
     - letakkan folder zip ini dimana saja
     - Copy file (".env") yang ada difile project baru kalian
     - Lalu pastekan di dalam folder "ci4_crud_apiValidation"
@@ -35,4 +35,4 @@ berikut langkah-langkahnya :
 5. Tinggal jalankan dan buka postman untuk ngetes program ini. Happy Coding :)
     - php spark serve *Note Untuk run program ci4
 
-## ScreenShot Test
+## Screenshot Test
