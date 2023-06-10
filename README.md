@@ -18,6 +18,8 @@ Beberapa fitur utama CodeIgniter meliputi:
 
 ## Installation & updates
 
+`Project Crud Sederhana`
+
 Sebelum anda mendownload zip ini, saya ingin memberikan tips agar tidak terjadi error pada saat run program ini :
 
 berikut langkah-langkahnya :
